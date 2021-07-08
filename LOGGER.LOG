@@ -1,0 +1,363 @@
+2019-8-18T9:12:5 |INFO|device booted up. 
+2019-8-18T9:12:14 |INFO|Device is connected to SSID : MM and ip address : 192.168.1.107
+2019-8-18T9:12:14 |INFO|device connected to broker:m15.cloudmqtt.com
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:12:29"}
+{"Data":"020ÿ54BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:12:30"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:12:32"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:12:33"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:12:34"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:12:36"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:12:37"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:12:38"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:12:39"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:12:40"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:12:41"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:12:43"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:12:47"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:12:48"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:12:54"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:12:55"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:12:59"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:13:0"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:13:3"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:13:4"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:13:5"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:13:6"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:13:7"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:13:8"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:13:10"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:13:11"}
+{"Data":"020054BEC028,C001-Z002-B003-F004-S005,2019-8-18T9:13:12"}
+2019-8-18T9:12:5 |INFO|device booted up. 
+2019-8-23T9:15:48 |INFO|device booted up. 
+2019-8-23T9:15:48 |INFO|device booted up. 
+2019-8-23T9:15:48 |INFO|device booted up. 
+2019-8-23T9:15:57 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-23T9:15:57 |INFO|device connected to broker:m15.cloudmqtt.com
+{"Data":"8,C001-Z002-B003-F004-S005,2019-8-23T9:15:59"}
+{"Data":"8,C001-Z002-B003-F004-S005,2019-8-23T9:16:0"}
+{"Data":"8,C001-Z002-B003-F004-S005,2019-8-23T9:16:5"}
+{"Data":"8,C001-Z002-B003-F004-S005,2019-8-23T9:16:6"}
+{"Data":"8,C001-Z002-B003-F004-S005,2019-8-23T9:16:20"}
+{"Data":"8,C001-Z002-B003-F004-S005,2019-8-23T9:16:21"}
+2019-8-23T9:27:58 |INFO|device booted up. 
+2019-8-23T9:28:2 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-23T9:28:2 |INFO|device connected to broker:m15.cloudmqtt.com
+{"Data":"114088022718799002161814982249195299927333597441075843104107592035410758849961075884972010
+{"Data":"200541821190281075888776,C001-Z002-B003-F004-S005,2019-8-23T9:28:19"}
+2019-8-23T9:27:58 |INFO|device booted up. 
+2019-8-23T9:28:5 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-23T9:28:5 |INFO|device connected to broker:m15.cloudmqtt.com
+{"Data":"1140880227187990021618149822491952999273,C001-Z002-B003-F004-S005,2019-8-23T9:28:10"}
+{"Data":"20207195299927333597441075843104107592035410758849961075884972010758556111075888776,C001-Z
+{"Data":"200541821190281075888776,C001-Z002-B003-F004-S005,2019-8-23T9:28:14"}
+{"Data":"200541821190281075888776,C001-Z002-B003-F004-S005,2019-8-23T9:28:16"}
+{"Data":"20054182119,C001-Z002-B003-F004-S005,2019-8-23T9:28:18"}
+{"Data":"2005418181190281075888776,C001-Z002-B003-F004-S005,2019-8-23T9:28:23"}
+{"Data":"20,C001-Z002-B003-F004-S005,2019-8-23T9:28:25"}
+{"Data":"20700541821190281075888776,C001-Z002-B003-F004-S005,2019-8-23T9:28:29"}
+{"Data":"200541821190281075888776,C001-Z002-B003-F004-S005,2019-8-23T9:29:26"}
+{"Data":"200541821190281075888776,C001-Z002-B003-F004-S005,2019-8-23T9:29:30"}
+{"Data":"200541821190281075888776,C001-Z002-B003-F004-S005,2019-8-23T9:29:52"}
+{"Data":"20054185221121075888776,C001-Z002-B003-F004-S005,2019-8-23T9:29:54"}
+{"Data":"20054185221121075888776,C001-Z002-B003-F004-S005,2019-8-23T9:30:0"}
+{"Data":"200541821927171075888776,C001-Z002-B003-F004-S005,2019-8-23T9:30:3"}
+{"Data":"200541821927171075888776,C001-Z002-B003-F004-S005,2019-8-23T9:30:5"}
+{"Data":"201280,C001-Z002-B003-F004-S005,2019-8-23T9:30:6"}
+{"Data":"271702005,C001-Z002-B003-F004-S005,2019-8-23T9:30:19"}
+{"Data":"200541855418211075888776,C001-Z002-B003-F004-S005,2019-8-23T9:30:22"}
+{"Data":"20054185221121075888776,C001-Z002-B003-F004-S005,2019-8-23T9:30:32"}
+{"Data":"20054185221121075888776,C001-Z002-B003-F004-S005,2019-8-23T9:30:40"}
+{"Data":"200541821927171075888776,C001-Z002-B003-F004-S005,2019-8-23T9:30:46"}
+{"Data":"20054185221121075888776,C001-Z002-B003-F004-S005,2019-8-23T9:30:49"}
+{"Data":"20054185221121075888776,C001-Z002-B003-F004-S005,2019-8-23T9:30:50"}
+{"Data":"20054185221121075888776,C001-Z002-B003-F004-S005,2019-8-23T9:30:53"}
+{"Data":"2001970,C001-Z002-B003-F004-S005,2019-8-23T9:30:54"}
+{"Data":"22112020054181075888776,C001-Z002-B003-F004-S005,2019-8-23T9:30:55"}
+2019-8-23T9:32:27 |INFO|device booted up. 
+2019-8-23T9:32:31 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-23T9:32:31 |INFO|device connected to broker:m15.cloudmqtt.com
+{"Data":"000011073669440107587773210737376321073671852107584938410736691561073669440,C001-Z002-B003
+{"Data":"200541821927171073669440,C001-Z002-B003-F004-S005,2019-8-23T9:33:59"}
+{"Data":"200541821927171073669440,C001-Z002-B003-F004-S005,2019-8-23T9:34:2"}
+{"Data":"200,C001-Z002-B003-F004-S005,2019-8-23T9:34:5"}
+{"Data":"22060541821927171073669440,C001-Z002-B003-F004-S005,2019-8-23T9:34:7"}
+{"Data":"200541821927171073669440,C001-Z002-B003-F004-S005,2019-8-23T9:34:8"}
+{"Data":"200541821927,C001-Z002-B003-F004-S005,2019-8-23T9:34:12"}
+{"Data":"20054182192077171073669440,C001-Z002-B003-F004-S005,2019-8-23T9:34:14"}
+{"Data":"200541821927171073669440,C001-Z002-B003-F004-S005,2019-8-23T9:34:15"}
+{"Data":"200541821927171073669440,C001-Z002-B003-F004-S005,2019-8-23T9:34:17"}
+{"Data":"200541821927171073669440,C001-Z002-B003-F004-S005,2019-8-23T9:34:18"}
+{"Data":"200541821927171073669440,C001-Z002-B003-F004-S005,2019-8-23T9:34:34"}
+{"Data":"20054185221121073669440,C001-Z002-B003-F004-S005,2019-8-23T9:34:43"}
+{"Data":"20054185221121073669440,C001-Z002-B003-F004-S005,2019-8-23T9:34:50"}
+{"Data":"20054185221121073669440,C001-Z002-B003-F004-S005,2019-8-23T9:34:52"}
+{"Data":"20054185221121073669440,C001-Z002-B003-F004-S005,2019-8-23T9:35:4"}
+2019-8-23T9:32:27 |INFO|device booted up. 
+2019-8-26T7:9:11 |INFO|device booted up. 
+2019-8-26T7:9:11 |INFO|device booted up. 
+2019-8-26T7:9:20 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T7:9:20 |INFO|device connected to broker:m15.cloudmqtt.com
+{"Data":"0220200200520054200542005420054200542005420054,C001-Z002-B003-F004-S005,2019-8-26T7:9:21"}
+{"Data":"200542005420054200542005420054200542005420054200542005420054,C001-Z002-B003-F004-S005,2019
+{"Data":"200542005420054200542005420054200542005420054200542005420054,C001-Z002-B003-F004-S005,2019
+{"Data":"200542005420054200542005420054200542005420054200542005420054,C001-Z002-B003-F004-S005,2019
+{"Data":"200542005420054200542005420054200542005420054200542005420054,C001-Z002-B003-F004-S005,2019
+{"Data":"200542005420054200542005420054200542005420054200542005420054,C001-Z002-B003-F004-S005,2019
+{"Data":"200542005420054200542005420054200542005420054200542005420054,C001-Z002-B003-F004-S005,2019
+2019-8-26T7:31:34 |INFO|device booted up. 
+2019-8-26T7:31:42 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T7:31:42 |INFO|device connected to broker:m15.cloudmqtt.com
+2019-8-26T7:31:34 |INFO|device booted up. 
+2019-8-26T7:31:38 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T7:31:38 |INFO|device connected to broker:m15.cloudmqtt.com
+{"Data":"485048485352666967485056,C001-Z002-B003-F004-S005,2019-8-26T7:31:39"}
+{"Data":"485048485352665370494950,C001-Z002-B003-F004-S005,2019-8-26T7:31:47"}
+{"Data":"485048485352666967485056,C001-Z002-B003-F004-S005,2019-8-26T7:32:3"}
+{"Data":"48504848535266696748,C001-Z002-B003-F004-S005,2019-8-26T7:32:4"}
+{"Data":"485048485352666967485056,C001-Z002-B003-F004-S005,2019-8-26T7:32:8"}
+{"Data":"485048485352666967485056,C001-Z002-B003-F004-S005,2019-8-26T7:32:9"}
+{"Data":"485048485352665370494950,C001-Z002-B003-F004-S005,2019-8-26T7:32:16"}
+{"Data":"485048485352665370494950,C001-Z002-B003-F004-S005,2019-8-26T7:32:18"}
+{"Data":"4850240,C001-Z002-B003-F004-S005,2019-8-26T7:32:19"}
+{"Data":"485048485352665370494950,C001-Z002-B003-F004-S005,2019-8-26T7:32:20"}
+{"Data":"485048485352666957505565,C001-Z002-B003-F004-S005,2019-8-26T7:32:27"}
+{"Data":"485048485352666957505565,C001-Z002-B003-F004-S005,2019-8-26T7:32:32"}
+{"Data":"485048485352666967485056,C001-Z002-B003-F004-S005,2019-8-26T7:33:48"}
+{"Data":"485048485352666967485056,C001-Z002-B003-F004-S005,2019-8-26T7:33:49"}
+{"Data":"4850484853526669672524850,C001-Z002-B003-F004-S005,2019-8-26T7:33:50"}
+{"Data":"48485352666967485056,C001-Z002-B003-F004-S005,2019-8-26T7:33:52"}
+2019-8-26T7:50:49 |INFO|device booted up. 
+2019-8-26T7:50:55 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T7:50:55 |INFO|device connected to broker:m15.cloudmqtt.com
+2019-8-26T7:50:49 |INFO|device booted up. 
+2019-8-26T7:50:58 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T7:50:58 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"485048485352665370494950","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-8-26T7:51:
+{"tagid":"485048485352665370494950","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-8-26T7:51:
+2019-8-26T7:53:49 |INFO|device booted up. 
+2019-8-26T7:53:51 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T7:53:51 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"485048485352666957505565","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-8-26T7:54:6"}
+{"tagid":"485048485352666957505565","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-8-26T7:54:23"}
+2019-8-26T8:0:54 |INFO|device booted up. 
+2019-8-26T8:0:58 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T8:0:58 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"485048485352666957505565","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-8-26T8:1:19"}
+{"tagid":"485048485352666957505565","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-8-26T8:1:29"}
+{"tagid":"485048485352665370494950","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-8-26T8:1:36"}
+{"tagid":"485048485352665370494950","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-8-26T8:3:17"}
+{"tagid":"485048485352666957505565","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-8-26T8:3:47"}
+2019-8-26T8:0:54 |INFO|device booted up. 
+2019-8-26T8:0:54 |INFO|device booted up. 
+2019-8-26T8:0:54 |INFO|device booted up. 
+2019-8-26T9:3:31 |INFO|device booted up. 
+2019-8-26T9:3:31 |INFO|device booted up. 
+2019-8-26T9:3:39 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T9:3:39 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"485048485352665370494950","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-8-26T9:3:43"}
+2019-8-26T9:3:31 |INFO|device booted up. 
+2019-8-26T9:3:43 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T9:3:43 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"485048485352665370494950","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-8-26T9:3:47"}
+2019-8-26T9:15:28 |INFO|device booted up. 
+2019-8-26T9:15:32 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T9:15:32 |INFO|device connected to broker:m15.cloudmqtt.com
+2019-8-26T9:15:28 |INFO|device booted up. 
+2019-8-26T9:15:35 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T9:15:35 |INFO|device connected to broker:m15.cloudmqtt.com
+2019-8-26T9:15:28 |INFO|device booted up. 
+2019-8-26T9:15:31 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T9:15:31 |INFO|device connected to broker:m15.cloudmqtt.com
+2019-8-26T9:15:28 |INFO|device booted up. 
+2019-8-26T9:15:35 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T9:15:35 |INFO|device connected to broker:m15.cloudmqtt.com
+2019-8-26T9:15:28 |INFO|device booted up. 
+2019-8-26T9:15:38 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T9:15:38 |INFO|device connected to broker:m15.cloudmqtt.com
+2019-8-26T9:15:28 |INFO|device booted up. 
+2019-8-26T9:18:48 |INFO|device booted up. 
+2019-8-26T9:18:52 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T9:18:52 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"485048485352665370494950","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-8-26T9:19:17"}
+2019-8-26T9:19:19 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T9:19:19 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"485048485352665370494950","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-8-26T9:19:21"}
+2019-8-26T9:19:23 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T9:19:23 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"485048485352665370494950","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-8-26T9:19:46"}
+2019-8-26T9:19:47 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T9:19:47 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"485048485352665370494950","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-8-26T9:19:49"}
+2019-8-26T9:19:51 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T9:19:51 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"485048485352665370494950","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-8-26T9:19:52"}
+2019-8-26T9:19:54 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T9:19:54 |INFO|device connected to broker:m15.cloudmqtt.com
+2019-8-26T9:21:38 |INFO|device booted up. 
+2019-8-26T9:21:44 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T9:21:44 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"485048485352665370494950","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-8-26T9:21:52"}
+{"tagid":"485048485352665370494950","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-8-26T9:22:3"}
+{"tagid":"485048485352665370494950","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-8-26T9:22:17"}
+2019-8-26T9:21:38 |INFO|device booted up. 
+2019-8-26T9:21:46 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-8-26T9:21:46 |INFO|device connected to broker:m15.cloudmqtt.com
+2019-9-2T8:15:7 |INFO|device booted up. 
+2019-9-2T8:15:11 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-9-2T8:15:11 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"4850484853526669","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T8:16:42"}
+{"tagid":"48504848535266696748242","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T8:16:43"}
+{"tagid":"48504848535266245","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T8:16:56"}
+{"tagid":"485048485352666967485056","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T8:16:58"}
+{"tagid":"485048485352666967485056","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T8:17:3"}
+{"tagid":"485048485352666967485056","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T8:17:4"}
+{"tagid":"485048485352666967485056","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T8:17:5"}
+{"tagid":"485048485352666967485056","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T8:17:6"}
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:6 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-9-2T9:24:6 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"485048485352666967485056","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T9:24:58"}
+{"tagid":"485048485352666967485056","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T9:24:59"}
+{"tagid":"485048485352666967485056","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T9:25:6"}
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:21 |INFO|Device is connected to SSID : P55 and ip address : 192.168.43.139
+2019-9-2T9:24:21 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"485048252","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T9:26:11"}
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:8 |INFO|Device is connected to SSID : MM and ip address : 192.168.1.121
+2019-9-2T9:24:8 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"485048485352666967485056","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T9:24:34"}
+{"tagid":"485048485352666967485056","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T9:24:35"}
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:4 |INFO|Device is connected to SSID : MM and ip address : 192.168.1.121
+2019-9-2T9:24:4 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"485048485352666967","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T9:24:7"}
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:3 |INFO|Device is connected to SSID : MM and ip address : 192.168.1.121
+2019-9-2T9:24:3 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"485048485352666967485056","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T9:24:7"}
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:3 |INFO|Device is connected to SSID : MM and ip address : 192.168.1.121
+2019-9-2T9:24:3 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"4850484853526669685551254","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T9:24:5"}
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:3 |INFO|Device is connected to SSID : MM and ip address : 192.168.1.121
+2019-9-2T9:24:3 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"485048485352665370494950","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T9:24:5"}
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:4 |INFO|Device is connected to SSID : MM and ip address : 192.168.1.121
+2019-9-2T9:24:4 |INFO|device connected to broker:m15.cloudmqtt.com
+{"tagid":"485048485352666968555170","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T9:34:42"}
+{"tagid":"48178","readerid":"C001-Z002-B003-F004-S005","readAt":"2019-9-2T9:34:43"}
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:7 |INFO|Device is connected to SSID : MM and ip address : 192.168.1.130
+2019-9-2T9:24:7 |INFO|device connected to broker:m15.cloudmqtt.com
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:7 |INFO|Device is connected to SSID : MM and ip address : 192.168.1.130
+2019-9-2T9:24:7 |INFO|device connected to broker:m15.cloudmqtt.com
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:17 |INFO|Device is connected to SSID : MM and ip address : 192.168.1.130
+2019-9-2T9:24:17 |INFO|device connected to broker:m15.cloudmqtt.com
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:9 |INFO|Device is connected to SSID : MM and ip address : 192.168.1.130
+2019-9-2T9:24:9 |INFO|device connected to broker:m15.cloudmqtt.com
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:9 |INFO|Device is connected to SSID : MM and ip address : 192.168.1.130
+2019-9-2T9:24:9 |INFO|device connected to broker:m15.cloudmqtt.com
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:7 |INFO|Device is connected to SSID : MM and ip address : 192.168.1.130
+2019-9-2T9:24:7 |INFO|device connected to broker:m15.cloudmqtt.com
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:7 |INFO|Device is connected to SSID : MM and ip address : 192.168.1.130
+2019-9-2T9:24:7 |INFO|device connected to broker:m15.cloudmqtt.com
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:9 |INFO|Device is connected to SSID : MM and ip address : 192.168.1.130
+2019-9-2T9:24:9 |INFO|device connected to broker:m15.cloudmqtt.com
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:0 |INFO|device booted up. 
+2019-9-2T9:24:7 |INFO|Device is connected to SSID : MM and ip address : 192.168.1.130
+2019-9-2T9:24:7 |INFO|device connected to broker:m15.cloudmqtt.com
+2019-9-12T16:51:40 |INFO|device booted up. 
+2019-9-12T16:51:45 |FATAL|device disconnected from SSID : 
+2019-9-12T16:51:39 |INFO|device booted up. 
+2019-9-12T16:51:44 |FATAL|device disconnected from SSID : 
+2019-9-12T16:51:39 |INFO|device booted up. 
+2019-9-12T16:51:44 |FATAL|device disconnected from SSID : 
+2019-9-12T16:51:39 |INFO|device booted up. 
+2019-9-12T16:51:44 |FATAL|device disconnected from SSID : 
+2019-9-12T16:51:39 |INFO|device booted up. 
+2019-9-12T16:51:39 |INFO|device booted up. 
+2019-9-12T16:51:39 |INFO|device booted up. 
+2019-9-12T16:51:39 |INFO|device booted up. 
+2019-9-12T16:51:39 |INFO|device booted up. 
+2019-9-12T16:51:39 |INFO|device booted up. 
+2019-9-12T16:51:39 |INFO|device booted up. 
+2019-9-12T16:51:39 |INFO|device booted up. 
+2019-9-12T16:51:39 |INFO|device booted up. 
+2019-9-12T16:51:44 |FATAL|device disconnected from SSID : 
+2019-9-12T16:56:46 |INFO|device booted up. 
+2019-9-12T16:56:51 |FATAL|device disconnected from SSID : 
+2019-9-12T16:56:45 |INFO|device booted up. 
+2019-9-12T16:56:50 |FATAL|device disconnected from SSID : 
+2019-9-12T16:56:45 |INFO|device booted up. 
+2019-9-12T16:56:50 |FATAL|device disconnected from SSID : 
+2019-9-12T16:56:45 |INFO|device booted up. 
+2019-9-12T16:56:45 |INFO|device booted up. 
+2019-9-12T16:56:45 |INFO|device booted up. 
+2019-9-12T16:56:50 |FATAL|device disconnected from SSID : 
+2019-9-12T16:59:20 |INFO|device booted up. 
+2019-9-12T16:59:25 |FATAL|device disconnected from SSID : 
+2019-9-12T16:59:19 |INFO|device booted up. 
+2019-9-12T16:59:24 |FATAL|device disconnected from SSID : 
+2019-9-12T17:1:39 |INFO|device booted up. 
+2019-9-12T17:1:39 |INFO|device booted up. 
+2019-9-12T17:3:23 |INFO|device booted up. 
+2019-9-12T17:3:23 |INFO|device booted up. 
+2019-9-12T17:4:51 |INFO|device booted up. 
+2019-9-12T17:4:51 |INFO|device booted up. 
+2019-9-12T17:4:51 |INFO|device booted up. 
+2019-9-12T17:4:51 |INFO|device booted up. 
+2019-9-12T17:4:51 |INFO|device booted up. 
+2019-9-12T17:4:51 |INFO|device booted up. 
+2019-9-12T17:4:51 |INFO|device booted up. 
+2019-9-12T17:4:51 |INFO|device booted up. 
+2019-9-12T17:4:51 |INFO|device booted up. 
+2019-9-12T17:4:51 |INFO|device booted up. 
+2019-9-12T17:7:15 |INFO|device booted up. 
+2019-9-12T17:7:15 |INFO|device booted up. 
+2019-9-12T17:7:15 |INFO|device booted up. 
+2019-9-12T17:7:15 |INFO|device booted up. 
+2019-9-12T17:7:15 |INFO|device booted up. 
+2019-9-12T17:7:15 |INFO|device booted up. 
+2019-9-12T17:7:15 |INFO|device booted up. 
+2019-9-12T17:7:15 |INFO|device booted up. 
+2019-9-12T17:7:15 |INFO|device booted up. 
+2019-9-12T17:7:15 |INFO|device booted up. 
+2019-9-12T17:7:15 |INFO|device booted up. 
+2019-9-12T17:12:52 |INFO|device booted up. 
+2019-9-12T17:12:52 |INFO|device booted up. 
+2019-9-12T17:12:52 |INFO|device booted up. 
+2019-9-12T17:12:52 |INFO|device booted up. 
+2019-9-12T17:12:52 |INFO|device booted up. 
+2019-9-12T17:12:52 |INFO|device booted up. 
+2019-9-12T17:12:52 |INFO|device booted up. 
+2019-9-12T17:12:52 |INFO|device booted up. 
+2019-9-12T17:12:52 |INFO|device booted up. 
+2019-9-12T17:12:52 |INFO|device booted up. 
+2019-9-12T17:12:52 |INFO|device booted up. 
+2019-9-12T17:12:52 |INFO|device booted up. 
+2019-9-12T17:12:52 |INFO|device booted up. 
+2019-9-12T17:12:52 |INFO|device booted up. 
+2019-9-12T17:21:21 |INFO|device booted up. 
+2019-9-12T17:21:21 |INFO|device booted up. 
+2019-9-12T17:24:43 |INFO|device booted up. 
+2019-9-12T17:24:43 |INFO|device booted up. 
+2019-9-12T17:26:24 |INFO|device booted up. 
+2019-9-12T17:26:24 |INFO|device booted up. 
+2019-9-12T17:26:24 |INFO|device booted up. 
+2019-9-12T17:26:24 |INFO|device booted up. 
